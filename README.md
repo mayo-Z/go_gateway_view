@@ -1,21 +1,3 @@
-目录
-- [Go 微服务网关项目介绍](#go-微服务网关项目介绍)
-- [实现功能](#实现功能)
-  - [后台管理功能](#后台管理功能)
-  - [反向代理功能](#反向代理功能)
-- [代码帮助](#代码帮助)
-  - [运行后端项目 todo](#运行后端项目-todo)
-  - [运行前端项目 todo](#运行前端项目-todo)
-  - [运行下游服务器 todo](#运行下游服务器-todo)
-  - [代码部署](#代码部署)
-    - [实体机部署](#实体机部署)
-      - [1、每个项目独立部署](#1每个项目独立部署)
-      - [2、前后端合并部署](#2前后端合并部署)
-    - [k8s部署(linux)](#k8s部署linux)
-- [代码注意事项](#代码注意事项)
-  - [不足与bug](#不足与bug)
-  - [未来可扩展功能](#未来可扩展功能)
-
 # 项目介绍
 
 Go 微服务网关是一个由我个人搭建的前后端分离的微服务网关服务，这是配套的前端代码。
@@ -32,11 +14,11 @@ Go 微服务网关是一个由我个人搭建的前后端分离的微服务网�
 
 # 项目预览
 
-![https://i.postimg.cc/7hr9y85j/1.png](https://i.postimg.cc/7hr9y85j/1.png)
+[![1.png](https://i.postimg.cc/7hr9y85j/1.png)](https://postimg.cc/5YpLwrqm)
 
-图片todo
+[![3.png](https://i.postimg.cc/7LXBvY7c/3.png)](https://postimg.cc/B8L5H3mc)
 
-
+[![2.png](https://i.postimg.cc/CM2QL1tp/2.png)](https://postimg.cc/CdjNcFSc)
 
 # 实现功能
 
