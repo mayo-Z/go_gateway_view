@@ -8,7 +8,7 @@
         target="_blank"
         style="color: #5c6b77"
         href="https://beian.miit.gov.cn/"
-        >桂ICP备2022005935号</a
+        >XICP备XXXXXXXXXX号</a
       >
       &nbsp; ©2021-2022 秋叶原の黑猫
     </div>
