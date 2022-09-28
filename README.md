@@ -12,14 +12,6 @@ Go 微服务网关是一个由我个人搭建的前后端分离的微服务网�
 
 联系邮箱：hhd5050@foxmail.com
 
-# 项目预览
-
-[![1.png](https://i.postimg.cc/7hr9y85j/1.png)](https://postimg.cc/5YpLwrqm)
-
-[![3.png](https://i.postimg.cc/7LXBvY7c/3.png)](https://postimg.cc/B8L5H3mc)
-
-[![2.png](https://i.postimg.cc/CM2QL1tp/2.png)](https://postimg.cc/CdjNcFSc)
-
 # 实现功能
 
 管理员：登录、退出、修改密码
